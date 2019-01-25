@@ -1,6 +1,7 @@
 # "How to build your online researcher profile ?" / "Open access and beyond : means, opportunities and challenges"
 
 Matériel des formations "How to build your online researcher profile ?" et "Open access and beyond : means, opportunities and challenges" - ED481 et ED211 de l'université de Pau et des Pays de l’Adour - 2019-01.
+
 Modalités : séances en amphihéâtre d'une durée d'une heure environ, les doctorants sont munis de boîtiers réponse pour répondre aux questions
 
 Le matériel est composé des éléments suivants.
