@@ -214,16 +214,16 @@ Ross-Hellauer, T. et al. (2018). ‘Are funder Open Access platforms a good idea
 
 ---
 
+
 # The gold and the grey : specificity for humanities and social sciences 
 
 The hybrid model (the grey) is more proeminent in exact sciences, technology and medicine ; if you want to know more about this model, please check the ED211 session's slides.
 :warning: Data from Web of Science - mind the gap! (see next slide)
 
-![journals_oa_disciplines](img/journals_oa_disciplines.png)
+![journals_oa_disciplines 85%](img/journals_oa_disciplines.png)
 
 
-<!-- *footer : Image from : 101 Innovations. (2018). ‘Towards a Plan S gap analysis? (1) Open access potential across disciplines’. Innovations in Scholarly Communication. Retrieved from https://101innovations.wordpress.com/2018/12/05/oa-potential-journals-and-publications-across-disciplines/
- -->
+<!-- *footer : Image from : 101 Innovations. (2018). ‘Towards a Plan S gap analysis? (1) Open access potential across disciplines’. Innovations in Scholarly Communication. Retrieved from https://101innovations.wordpress.com/2018/12/05/oa-potential-journals-and-publications-across-disciplines/ -->
 
 ---
 
