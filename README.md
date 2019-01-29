@@ -24,8 +24,6 @@ Bibliographie aux formats [Zotero RDF](https://github.com/fflamerie/pau_ed_2019/
 * Présentation - [md](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_diapos_SSH.md) et [PDF](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_diapos_SSH.pdf)
 * Questions - [md](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_quizz.md) et [PDF](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_quizz.pdf)
 
-
-## How to build your online researcher profile ? 
 ### ED211 - École doctorale des Sciences Exactes et leurs applications de l’université de Pau et des Pays de l’Adour
 * Présentation - [md](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_diapos_STM.md) et [PDF](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_diapos_STM.pdf)
 * Questions - [md](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_quizz.md) et [PDF](https://github.com/fflamerie/pau_ed_2019/blob/master/content/2019_01_pauPHD_PROFILE_quizz.pdf)
