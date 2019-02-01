@@ -1,4 +1,4 @@
-# Quizz OA - STM
+# Quizz OA - SSH
 
 ## Q01 Etes-vous auteur ou co-auteur d'un article de revue publié ou en cours de soumission?
 
@@ -42,7 +42,7 @@ _une seule réponse_
 * oui
 * non
 
-## Q06 A votre avis, combien faut-il payer pour publier un article dans _Ethics & Global Politics_, publié ar l'éditeur Taylor & Francis?
+## Q06 A votre avis, combien faut-il payer pour publier un article dans _Ethics & Global Politics_, publié par l'éditeur Taylor & Francis?
 
 _une seule réponse_
 

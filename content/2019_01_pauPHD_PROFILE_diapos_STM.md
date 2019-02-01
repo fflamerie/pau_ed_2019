@@ -239,7 +239,7 @@ From : McGlynn, T. (2015). ‘I’m going to stop ignoring ResearchGate’. Smal
 |:--| :--|
 |created by the user|automatically and systematically created by Elsevier|
 |independant from a subscription to Web of Science for basic features| cannot be changed or edited without subscription to Scopus|
-|possible to add pulications from other sources | limited to publications indexed in Scopus : cannot attach publications from other sources |
+|possible to add publications from other sources | limited to publications indexed in Scopus : cannot attach publications from other sources |
 |online user profile | no online user profile|
 
 More about ResearcherID and Scopus Author ID : 
